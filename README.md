@@ -1,3 +1,1 @@
-Hey ho I make small games in UE5 and I am learning C++. 
-I might add stuff here but who knows? I got school to do.
-
+I make small games in Godot and Unreal. I have school so I might sometimes post things.
